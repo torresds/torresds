@@ -43,22 +43,15 @@
 **Databases**  
 `MongoDB` `MySQL` `Redis`
 
+
 **Other**  
 `Git` `Linux` `Godot`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=torresds&show_icons=true&theme=default" alt="torresds stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torresds&theme=default" alt="torresds streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torresds&layout=compact&hide=css&theme=default" alt="Top langs" />
 </p>
+
+---
+
+
 
