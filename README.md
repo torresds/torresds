@@ -18,7 +18,7 @@
 ### 🚧 Currently working on:
 
 - 🔧 [PebbleDB](https://github.com/torresds/PebbleDB): an embedded key-value store in C++ (LevelDB-style)  
-- 🌀 [lunatico](https://github.com/torresds/lunatico): a compiler and VM for a Lua-inspired language  
+- 🌀 [luna](https://github.com/torresds/luna): a compiler and VM for a Lua-inspired language  
 
 ---
 
