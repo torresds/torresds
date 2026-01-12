@@ -17,9 +17,7 @@
 
 ### 🚧 Currently working on:
 
-- 🔧 [PebbleDB](https://github.com/torresds/PebbleDB): an embedded key-value store in C++ (LevelDB-style)  
-- 🌀 [luna](https://github.com/torresds/luna): a compiler and VM for a Lua-inspired language  
-
+- 🧠 [tiny-nn](https://github.com/torresds/tiny-nn): a minimal neural network framework built from scratch in C++
 ---
 
 ### 💡 Interests & stack
